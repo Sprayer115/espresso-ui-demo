@@ -1,9 +1,9 @@
 # Espresso UI Demo
 
 - **Current prototype:** https://sprayer115.github.io/espresso-ui-demo/
-- **Frozen v7 prototype (2026-11-23 morning):** https://sprayer115.github.io/espresso-ui-demo/v7/
+- **Earlier v7 prototype (live before the 2026-11-23 icon update):** https://sprayer115.github.io/espresso-ui-demo/v7/
 
-The v7 snapshot was built from source commit [`79fb5cc8`](https://github.com/Sprayer115/espresso-ui-prototype/commit/79fb5cc89021f22c4d2d2aefa2979cd57822a07c), tagged `v7-2026-11-23` in the prototype repository. Its JavaScript and CSS bundles are identical to the current deployment; only the v7 HTML asset paths differ for subdirectory hosting.
+The v7 snapshot is the exact JavaScript and CSS previously deployed at the root by demo commit [`50a57b3`](https://github.com/Sprayer115/espresso-ui-demo/commit/50a57b371fb722435c532bb3c96fe59dd7008f4c) on 2026-11-20. Only the HTML asset paths were changed for subdirectory hosting. This is the milk-jug / simple-gear interface, not the later steam-lines / detailed-gear interface.
 
 Future updates to the current demo must leave `v7/` unchanged so earlier walkthrough results remain reproducible.
 
